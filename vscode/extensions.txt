@@ -1,0 +1,8 @@
+enkia.tokyo-night
+github.github-vscode-theme
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-pylance
+ms-python.vscode-python-envs
+undefined_publisher.file-selector
+yzane.markdown-pdf

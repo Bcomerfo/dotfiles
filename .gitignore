@@ -1,0 +1,35 @@
+# SSH / GPG / crypto keys
+.ssh/
+.gnupg/
+*.pem
+*.key
+*.crt
+id_rsa*
+id_ed25519*
+
+# Cloud/infra credentials
+.aws/
+.azure/
+.kube/config
+.docker/config.json
+
+# Shell history (can contain pasted secrets/commands)
+*_history
+.bash_history
+.zsh_history
+
+# Tokens/env files
+.env
+.netrc
+*.token
+
+# App-specific caches/local overrides that shouldn't be shared
+.config/google-chrome/
+.config/gh/hosts.yml
+*_local
+*.local
+
+# OS/editor junk
+.DS_Store
+*.swp
+*.swo

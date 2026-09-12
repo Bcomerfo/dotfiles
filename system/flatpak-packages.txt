@@ -1,0 +1,7 @@
+OBS Project	com.obsproject.Studio	32.2.2	stable	system
+Freedesktop SDK	org.freedesktop.Platform	freedesktop-sdk-25.08.16	25.08	system
+Freedesktop SDK	org.freedesktop.Platform.GL.default	26.1.6	25.08	system
+Freedesktop SDK	org.freedesktop.Platform.GL.default	26.1.6	25.08-extra	system
+Freedesktop SDK	org.freedesktop.Platform.VAAPI.Intel		25.08	system
+Freedesktop SDK	org.freedesktop.Platform.codecs-extra		25.08-extra	system
+Yaru Gtk Theme	org.gtk.Gtk3theme.Yaru		3.22	system
