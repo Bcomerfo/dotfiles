@@ -26,4 +26,4 @@ if [ -d "$HOME/.local/bin" ] ; then
     PATH="$HOME/.local/bin:$PATH"
 fi
 
-export STM32CubeMX_PATH=/home/bcomerfo/STM32CubeMX
+# export STM32CubeMX_PATH=/home/bcomerfo/STM32CubeMX
